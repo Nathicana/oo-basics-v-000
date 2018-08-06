@@ -9,8 +9,9 @@ def initialize(brand)
   @brand = brand
 end
 
-def cobble(condition = "new")
+def cobble(condition = "new", repair = "Your shoe is as good as new!"
   @condition = condition
+  @repair = repair
 end
 
 end
