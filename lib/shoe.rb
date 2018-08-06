@@ -10,7 +10,7 @@ def initialize(brand)
 end
 
 def cobble
-  puts "Your shoe has been repaired"
+  
 end
 
 end
