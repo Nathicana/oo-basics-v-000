@@ -1,7 +1,7 @@
 
 class Book
 
-def initialize(title = "And Ten There Were None")
+def initialize(title = "And Then There Were None")
   @title = title
 end
 
